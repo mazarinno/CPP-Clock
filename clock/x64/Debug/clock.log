@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Michelle Sfakianos\Downloads\Clock (1)\clock\Source.cpp(35,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michelle Sfakianos\Downloads\Clock (1)\clock\Source.cpp(40,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michelle Sfakianos\Downloads\Clock (1)\clock\Source.cpp(45,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michelle Sfakianos\Downloads\Clock (1)\clock\Source.cpp(50,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michelle Sfakianos\Downloads\Clock (1)\clock\Source.cpp(145,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michelle Sfakianos\Downloads\Clock (1)\clock\Source.cpp(150,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michelle Sfakianos\Downloads\Clock (1)\clock\Source.cpp(166,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michelle Sfakianos\Downloads\Clock (1)\clock\Source.cpp(171,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  clock.vcxproj -> C:\Users\Michelle Sfakianos\Downloads\Clock (1)\x64\Debug\clock.exe
